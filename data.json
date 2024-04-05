@@ -1,0 +1,17 @@
+{
+    "organisations": [
+        "trs"
+    ],
+    "users": [
+        {
+            "username": "lakshit28",
+            "chat_id": 1562486591,
+            "organisationname": "trs"
+        },
+        {
+            "username": "seemaa_1976",
+            "chat_id": 7015591060,
+            "organisationname": "trs"
+        }
+    ]
+}
