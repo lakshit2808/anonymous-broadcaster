@@ -24,11 +24,13 @@ Error Handling: Includes exception handling to manage errors gracefully.
 Persistence: Utilizes data storage for maintaining information about organizations and users.
 
 ### Future Improvements:
-Enhanced Security: Implement additional security measures to ensure anonymity.
-User Authentication: Integrate user authentication mechanisms for better control.
-Multiple Organisation Signup; User ability to communicate within multiple organisation
-User Interface: Develop a user-friendly interface for easier interaction.
-Scalability: Design the system to handle a larger user base and increased usage.
+- Enhanced Security: Implement additional security measures to ensure anonymity.
+- User Authentication: Integrate user authentication mechanisms for better control.
+- Multiple Organisation Signup; User ability to communicate within multiple organisation.
+- Blockchain as a Database: To Further increase the project's anonymity, integration with Blockchain is necessary.
+- AI Abusive Communication Detector System: To Prevent any Anonymous Abusive communication AI Integration is necessary
+- User Interface: Develop a user-friendly interface for easier interaction.
+- Scalability: Design the system to handle a larger user base and increased usage.
 
 ### Conclusion
 Anonymous Broadcaster provides a platform for secure and anonymous communication within organizations, promoting transparency and open dialogue while preserving anonymity. With further enhancements and optimizations, it can become a valuable tool for various organizations seeking confidential communication channels.
